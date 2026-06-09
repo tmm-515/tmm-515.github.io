@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: TMM515's Portfolio
 description: Nothing here yet...
+theme: null
+baseurl: "/tmm-515"
+url: "https://tmm-515.github.io"
